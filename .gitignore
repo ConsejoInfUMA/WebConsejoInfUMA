@@ -60,4 +60,4 @@ typings/
 # VSCode
 .vscode
 .idea
-tokens.json
+/app/tokens.json
