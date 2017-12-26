@@ -4,7 +4,7 @@ import {Provider} from 'react-redux';
 import {Route} from 'react-router-dom';
 import {ConnectedRouter} from 'react-router-redux';
 
-import App from '../components/App';
+import App from '../containers/App';
 import DevTools from './DevTools';
 
 export default function Root({store, history}) {
