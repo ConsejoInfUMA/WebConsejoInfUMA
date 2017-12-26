@@ -24,10 +24,10 @@ class App extends Component {
                         <div className="collapse navbar-collapse" id="navbarHiddable">
                             <ul className="navbar-nav mr-auto">
                                 <li className={location.pathname === '/' ? 'nav-item active' : 'nav-item'}>
-                                    <Link className="nav-link" to="/">Home</Link>
+                                    <Link className="nav-link" to="/">Inicio</Link>
                                 </li>
                                 <li className={location.pathname === '/about' ? 'nav-item active' : 'nav-item'}>
-                                    <Link className="nav-link" to="/about">About</Link>
+                                    <Link className="nav-link" to="/about">Acerca</Link>
                                 </li>
                             </ul>
                         </div>
