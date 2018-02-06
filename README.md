@@ -1,4 +1,5 @@
 # WebConsejoInfUMA
+Página web oficial del Consejo de Estudiantes de la ETSI Informática de la Universidad de Málaga.
 
 ## ¿Qué necesito para programar?
 
