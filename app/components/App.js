@@ -29,6 +29,9 @@ class App extends Component {
                                 <li className={location.pathname === '/about' ? 'nav-item active' : 'nav-item'}>
                                     <Link className="nav-link" to="/about">Acerca</Link>
                                 </li>
+                                <li className={location.pathname === '/contact' ? 'nav-item actitve' : 'nav-item'}>
+                                    <Link className="nav-link" to="/contact">Contacto</Link>
+                                </li>
                             </ul>
                         </div>
                     </div>
